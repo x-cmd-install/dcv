@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6283054,
       "digest": "sha256:f06fda3405064ea444a27d9d8757bfcce39f56ebef0179c9a02f542c1e654a96",
-      "download_count": 176,
+      "download_count": 178,
       "created_at": "2026-05-25T03:47:42Z",
       "updated_at": "2026-05-25T03:47:43Z",
       "browser_download_url": "https://github.com/tokuhirom/dcv/releases/download/v0.4.0/dcv_linux_amd64.tar.gz"
