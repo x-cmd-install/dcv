@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.4.0"
   latestRelease: "v0.4.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:37:40Z
+  collectedAt: 2026-09-10T23:10:20Z
 timeline:
   created: 2025-07-31
   lastCommit: 2026-05-25
@@ -84,7 +84,7 @@ total:
   commit: 942
 ---
 path: /home/runner/.x-repo/github.com/tokuhirom/dcv
-collectedAt: 2026-09-10T20:37:41Z
+collectedAt: 2026-09-10T23:10:21Z
 loc:
   Go:
     code: 20449
