@@ -4,13 +4,25 @@
 
 TUI viewer for docker-compose
 
-![dcv](https://repo.x-cmd.io/dcv.svg)
+![dcv](https://repo.x-cmd.io/dcv.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install dcv
 ```
+
+## 代码规模
+
+合计: **20,792** 行代码（覆盖前 5 种语言、共 **115** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 20,449 | 1,512 | 3,098 | 107 |
+| Sh | 154 | 28 | 31 | 4 |
+| Yaml | 116 | 13 | 14 | 2 |
+| Makefile | 63 | 10 | 14 | 1 |
+| Json | 6 | 0 | 0 | 1 |
 
 ## 源代码
 
@@ -22,7 +34,6 @@ x install dcv
 - **最新版本**: `v0.4.0` (2026-05-25)
 - **最近提交**: 2026-05-25
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-05-25T03:45:47Z
 
 ## 流行度
 
@@ -37,20 +48,23 @@ x install dcv
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 4 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 7 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 1 | 9 | 11 | 0 | 1 | 18 |
 | 360d | 2025-09-15 | 2 | 47 | 11 | 2 | 1 | 57 |
+| last720d | 2024-09-20 | 12 | 304 | 11 | 44 | 4 | 942 |
 
-## 代码规模
+## Release 资产
 
-合计: **20,792** 行代码（覆盖前 5 种语言、共 **115** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 20,449 | 1,512 | 3,098 | 107 |
-| Sh | 154 | 28 | 31 | 4 |
-| Yaml | 116 | 13 | 14 | 2 |
-| Makefile | 63 | 10 | 14 | 1 |
-| Json | 6 | 0 | 0 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/tokuhirom/dcv/releases/download/v0.4.0/checksums.txt) | 538 B | `other` |
+| [dcv_darwin_amd64.tar.gz](https://github.com/tokuhirom/dcv/releases/download/v0.4.0/dcv_darwin_amd64.tar.gz) | 6.0 MiB | `native/darwin/x64` |
+| [dcv_darwin_arm64.tar.gz](https://github.com/tokuhirom/dcv/releases/download/v0.4.0/dcv_darwin_arm64.tar.gz) | 5.8 MiB | `native/darwin/arm64` |
+| [dcv_linux_amd64.tar.gz](https://github.com/tokuhirom/dcv/releases/download/v0.4.0/dcv_linux_amd64.tar.gz) | 6.0 MiB | `native/linux/x64` |
+| [dcv_linux_arm64.tar.gz](https://github.com/tokuhirom/dcv/releases/download/v0.4.0/dcv_linux_arm64.tar.gz) | 5.6 MiB | `native/linux/arm64` |
+| [dcv_linux_armv7.tar.gz](https://github.com/tokuhirom/dcv/releases/download/v0.4.0/dcv_linux_armv7.tar.gz) | 5.8 MiB | `native/linux/arm` |
+| [dcv_windows_amd64.tar.gz](https://github.com/tokuhirom/dcv/releases/download/v0.4.0/dcv_windows_amd64.tar.gz) | 6.1 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -61,4 +75,4 @@ dcv 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:24:10Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:37:50Z._
